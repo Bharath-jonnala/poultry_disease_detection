@@ -3,6 +3,7 @@ from PIL import Image
 import numpy as np
 import tempfile
 import os
+import cv2
 from ultralytics import YOLO
 
 # -------------------------------------------------
